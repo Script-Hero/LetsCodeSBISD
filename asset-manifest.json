@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/LetsCodeSBISD/static/css/main.f94dce03.chunk.css",
+    "main.js": "/LetsCodeSBISD/static/js/main.b17e56ff.chunk.js",
+    "main.js.map": "/LetsCodeSBISD/static/js/main.b17e56ff.chunk.js.map",
+    "runtime-main.js": "/LetsCodeSBISD/static/js/runtime-main.d3d32028.js",
+    "runtime-main.js.map": "/LetsCodeSBISD/static/js/runtime-main.d3d32028.js.map",
+    "static/js/2.a3bd6bd2.chunk.js": "/LetsCodeSBISD/static/js/2.a3bd6bd2.chunk.js",
+    "static/js/2.a3bd6bd2.chunk.js.map": "/LetsCodeSBISD/static/js/2.a3bd6bd2.chunk.js.map",
+    "static/js/3.a69e28bb.chunk.js": "/LetsCodeSBISD/static/js/3.a69e28bb.chunk.js",
+    "static/js/3.a69e28bb.chunk.js.map": "/LetsCodeSBISD/static/js/3.a69e28bb.chunk.js.map",
+    "index.html": "/LetsCodeSBISD/index.html",
+    "static/css/main.f94dce03.chunk.css.map": "/LetsCodeSBISD/static/css/main.f94dce03.chunk.css.map",
+    "static/js/2.a3bd6bd2.chunk.js.LICENSE.txt": "/LetsCodeSBISD/static/js/2.a3bd6bd2.chunk.js.LICENSE.txt",
+    "static/media/annie.jpeg": "/LetsCodeSBISD/static/media/annie.12824e6a.jpeg",
+    "static/media/jean.jpg": "/LetsCodeSBISD/static/media/jean.c8854241.jpg",
+    "static/media/joseph.jpg": "/LetsCodeSBISD/static/media/joseph.6e838221.jpg",
+    "static/media/header.css": "/LetsCodeSBISD/static/media/logo.2ce598e7.png",
+    "static/media/neil.jpg": "/LetsCodeSBISD/static/media/neil.2173c369.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3d32028.js",
+    "static/js/2.a3bd6bd2.chunk.js",
+    "static/css/main.f94dce03.chunk.css",
+    "static/js/main.b17e56ff.chunk.js"
+  ]
+}
