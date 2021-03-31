@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.61c9da4b.chunk.css",
-    "main.js": "/static/js/main.b17e56ff.chunk.js",
-    "main.js.map": "/static/js/main.b17e56ff.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.6847d288.js",
-    "runtime-main.js.map": "/static/js/runtime-main.6847d288.js.map",
-    "static/js/2.a3bd6bd2.chunk.js": "/static/js/2.a3bd6bd2.chunk.js",
-    "static/js/2.a3bd6bd2.chunk.js.map": "/static/js/2.a3bd6bd2.chunk.js.map",
-    "static/js/3.a69e28bb.chunk.js": "/static/js/3.a69e28bb.chunk.js",
-    "static/js/3.a69e28bb.chunk.js.map": "/static/js/3.a69e28bb.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.61c9da4b.chunk.css.map": "/static/css/main.61c9da4b.chunk.css.map",
-    "static/js/2.a3bd6bd2.chunk.js.LICENSE.txt": "/static/js/2.a3bd6bd2.chunk.js.LICENSE.txt",
-    "static/media/annie.jpeg": "/static/media/annie.12824e6a.jpeg",
-    "static/media/jean.jpg": "/static/media/jean.c8854241.jpg",
-    "static/media/joseph.jpg": "/static/media/joseph.6e838221.jpg",
-    "static/media/header.css": "/static/media/logo.2ce598e7.png",
-    "static/media/neil.jpg": "/static/media/neil.2173c369.jpg"
+    "main.css": "/www.letscodesbisd.com/static/css/main.6812a476.chunk.css",
+    "main.js": "/www.letscodesbisd.com/static/js/main.7d257b25.chunk.js",
+    "main.js.map": "/www.letscodesbisd.com/static/js/main.7d257b25.chunk.js.map",
+    "runtime-main.js": "/www.letscodesbisd.com/static/js/runtime-main.e73ba62f.js",
+    "runtime-main.js.map": "/www.letscodesbisd.com/static/js/runtime-main.e73ba62f.js.map",
+    "static/js/2.a3bd6bd2.chunk.js": "/www.letscodesbisd.com/static/js/2.a3bd6bd2.chunk.js",
+    "static/js/2.a3bd6bd2.chunk.js.map": "/www.letscodesbisd.com/static/js/2.a3bd6bd2.chunk.js.map",
+    "static/js/3.a69e28bb.chunk.js": "/www.letscodesbisd.com/static/js/3.a69e28bb.chunk.js",
+    "static/js/3.a69e28bb.chunk.js.map": "/www.letscodesbisd.com/static/js/3.a69e28bb.chunk.js.map",
+    "index.html": "/www.letscodesbisd.com/index.html",
+    "static/css/main.6812a476.chunk.css.map": "/www.letscodesbisd.com/static/css/main.6812a476.chunk.css.map",
+    "static/js/2.a3bd6bd2.chunk.js.LICENSE.txt": "/www.letscodesbisd.com/static/js/2.a3bd6bd2.chunk.js.LICENSE.txt",
+    "static/media/annie.jpeg": "/www.letscodesbisd.com/static/media/annie.12824e6a.jpeg",
+    "static/media/jean.jpg": "/www.letscodesbisd.com/static/media/jean.c8854241.jpg",
+    "static/media/joseph.jpg": "/www.letscodesbisd.com/static/media/joseph.6e838221.jpg",
+    "static/media/header.css": "/www.letscodesbisd.com/static/media/logo.2ce598e7.png",
+    "static/media/neil.jpg": "/www.letscodesbisd.com/static/media/neil.2173c369.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.6847d288.js",
+    "static/js/runtime-main.e73ba62f.js",
     "static/js/2.a3bd6bd2.chunk.js",
-    "static/css/main.61c9da4b.chunk.css",
-    "static/js/main.b17e56ff.chunk.js"
+    "static/css/main.6812a476.chunk.css",
+    "static/js/main.7d257b25.chunk.js"
   ]
 }
