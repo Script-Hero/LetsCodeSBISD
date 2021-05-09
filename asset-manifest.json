@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.27de8b5d.chunk.css",
-    "main.js": "/static/js/main.ecfcddfb.chunk.js",
-    "main.js.map": "/static/js/main.ecfcddfb.chunk.js.map",
+    "main.css": "/static/css/main.07c88458.chunk.css",
+    "main.js": "/static/js/main.43adf26a.chunk.js",
+    "main.js.map": "/static/js/main.43adf26a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.db031d08.js",
     "runtime-main.js.map": "/static/js/runtime-main.db031d08.js.map",
     "static/js/2.c962cf2d.chunk.js": "/static/js/2.c962cf2d.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.cab446ba.chunk.js": "/static/js/3.cab446ba.chunk.js",
     "static/js/3.cab446ba.chunk.js.map": "/static/js/3.cab446ba.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.27de8b5d.chunk.css.map": "/static/css/main.27de8b5d.chunk.css.map",
+    "static/css/main.07c88458.chunk.css.map": "/static/css/main.07c88458.chunk.css.map",
     "static/js/2.c962cf2d.chunk.js.LICENSE.txt": "/static/js/2.c962cf2d.chunk.js.LICENSE.txt",
     "static/media/aditya.jpg": "/static/media/aditya.cd45c078.jpg",
     "static/media/annie.jpeg": "/static/media/annie.12824e6a.jpeg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.db031d08.js",
     "static/js/2.c962cf2d.chunk.js",
-    "static/css/main.27de8b5d.chunk.css",
-    "static/js/main.ecfcddfb.chunk.js"
+    "static/css/main.07c88458.chunk.css",
+    "static/js/main.43adf26a.chunk.js"
   ]
 }
